@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-95063-01" codeInsee="95063" dateMiseAJour="2013-07-01"
+           pivotLocal="mairie">
+   <Nom>Mairie de Bezons</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>2, rue de la Mairie</Ligne>
+      <CodePostal>95875</CodePostal>
+      <NomCommune>Bezons Cedex</NomCommune>
+      <Localisation>
+         <Latitude>48.925687</Latitude>
+         <Longitude>2.215847</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 26 50 00</Téléphone>
+      <Télécopie>+33 1 30 76 06 50</Télécopie>
+      <Email>secretariatgeneral@mairie-bezons.fr</Email>
+      <Url>http://www.ville-bezons.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="17:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="13:30:00" fin="19:30:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="mercredi">
+         <PlageH début="08:30:00" fin="12:00:00"/>
+         <PlageH début="13:30:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

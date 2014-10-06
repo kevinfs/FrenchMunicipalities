@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-95459-01" codeInsee="95459" dateMiseAJour="2011-05-27"
+           pivotLocal="mairie">
+   <Nom>Mairie de Nucourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>rue de la Boutrolle</Ligne>
+      <CodePostal>95420</CodePostal>
+      <NomCommune>NUCOURT</NomCommune>
+      <Localisation>
+         <Latitude>44.3510017395</Latitude>
+         <Longitude>0.178912997246</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 67 41 11</Téléphone>
+      <Télécopie>+33 1 34 67 46 05</Télécopie>
+      <Email>mairie.nucourt@wanadoo.fr</Email>
+      <Url>http://www.nucourt.fr</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="09:30:00" fin="12:30:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

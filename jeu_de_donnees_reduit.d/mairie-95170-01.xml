@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-95170-01" codeInsee="95170" dateMiseAJour="2013-10-02"
+           pivotLocal="mairie">
+   <Nom>Mairie de Condécourt</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>37, rue de la Libération</Ligne>
+      <CodePostal>95450</CodePostal>
+      <NomCommune>Condécourt</NomCommune>
+      <Localisation>
+         <Latitude>48.9934005737</Latitude>
+         <Longitude>1.91033995152</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="NAC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 66 31 75</Téléphone>
+      <Télécopie>+33 1 34 66 30 46</Télécopie>
+      <Email>mairie.condecourt@wanadoo.fr</Email>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="lundi" fin="mardi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+      <PlageJ début="jeudi" fin="jeudi">
+         <PlageH début="17:00:00" fin="19:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-95308-01" codeInsee="95308" dateMiseAJour="2013-07-03"
+           pivotLocal="mairie">
+   <Nom>Mairie d'Hérouville</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>3, rue du Poteau</Ligne>
+      <CodePostal>95300</CodePostal>
+      <NomCommune>Hérouville</NomCommune>
+      <Localisation>
+         <Latitude>49.100706</Latitude>
+         <Longitude>2.128767</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+      <Accessibilité type="ACC"/>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 66 54 31</Téléphone>
+      <Télécopie>+33 1 34 66 20 39</Télécopie>
+      <Email>mairie@herouville-en-vexin.net</Email>
+      <Url>http://www.herouville-en-vexin.net</Url>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="vendredi" fin="vendredi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+      <PlageJ début="samedi" fin="samedi">
+         <PlageH début="10:00:00" fin="12:00:00"/>
+      </PlageJ>
+      <PlageJ début="lundi" fin="lundi">
+         <PlageH début="15:00:00" fin="18:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>

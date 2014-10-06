@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organisme id="mairie-95295-01" codeInsee="95295" dateMiseAJour="2005-08-23"
+           pivotLocal="mairie">
+   <Nom>Mairie de Guiry en Vexin</Nom>
+   <EditeurSource>La Direction de l'information légale et administrative (Premier ministre)</EditeurSource>
+   <Adresse type="géopostale">
+      <Ligne>20 Rue Saint Nicolas</Ligne>
+      <CodePostal>95450</CodePostal>
+      <NomCommune>GUIRY EN VEXIN</NomCommune>
+      <Localisation>
+         <Latitude>49.1099014282</Latitude>
+         <Longitude>1.8559499979</Longitude>
+         <Précision>6</Précision>
+      </Localisation>
+   </Adresse>
+   <CoordonnéesNum>
+      <Téléphone>+33 1 34 67 40 40</Téléphone>
+   </CoordonnéesNum>
+   <Ouverture>
+      <PlageJ début="mardi" fin="mardi">
+         <PlageH début="14:00:00" fin="17:00:00"/>
+      </PlageJ>
+   </Ouverture>
+</Organisme>
